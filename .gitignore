@@ -3,7 +3,8 @@
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
 ## User settings
-xcuserdata/
+Push\ Up\ Or\ Not?/Push\ Up\ Or\ Not?/Push\ Up\ Or\ Not?.xcodeproj/xcuserdata/
+Push\ Up\ Or\ Not?/Push\ Up\ Or\ Not?/Push\ Up\ Or\ Not?.xcodeworkspace/xcuserdata/
 
 ## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
 *.xcscmblueprint
@@ -54,7 +55,8 @@ playground.xcworkspace
 # you should judge for yourself, the pros and cons are mentioned at:
 # https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
 #
-# Pods/
+Push\ Up\ Or\ Not?/Pods/
+Push\ Up\ Or\ Not?/Push\ Up\ Or\ Not?/GoogleService-Info.plist
 #
 # Add this line if you want to avoid checking in source code from the Xcode workspace
 # *.xcworkspace
