@@ -3,6 +3,7 @@ This iOS application tracks a person's body using a live camera feed to determin
 
 ## Installation/Requirements
 Since this application uses a live camera feed, you are going to need a physical iOS device in order to run it. In addition, I unfortunately do not have an Apple Developer account, so you will also need a Mac with the latest version of Xcode in order to install and test this application using your device. 
+
 **Requirements:**
 - an iOS device running iOS 13 (preferably with an A11 or newer)
 - a Mac with Xcode 12+
