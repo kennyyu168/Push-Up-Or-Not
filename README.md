@@ -1,5 +1,5 @@
 # Push-Up-Or-Not
-This iOS application tracks a person's body using a live camera feed to determine whether they are doing a push up with the correct form. Depending on which parts of the body are out of line, the app will put up suggestions to aid them in correcting their push up. In addition, the applicaiton will also track how many good push ups they've done. 
+This iOS application tracks a person's body using a live camera feed to determine whether they are doing a push up with the correct form. Depending on which parts of the body are out of line, the app will put up suggestions to aid them in correcting their push up. In addition, the application will also track how many good push ups they've done. 
 
 ## Installation/Requirements
 Since this application uses a live camera feed, you are going to need a physical iOS device in order to run it. In addition, I unfortunately do not have an Apple Developer account, so you will also need a Mac with the latest version of Xcode in order to install and test this application using your device. 
